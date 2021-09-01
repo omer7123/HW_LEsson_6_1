@@ -7,10 +7,9 @@
 
     <ImageView
         android:id="@+id/imageIv"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="center"
-        android:src="@drawable/ic_launcher_background" />
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/ic_ciri" />
 
     <TextView
         android:id="@+id/nameImageTv"
